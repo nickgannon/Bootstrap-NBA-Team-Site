@@ -1,4 +1,4 @@
-# NBA-Team-Site
+# Bootstrap-NBA-Team-Site
 An informational NBA team site about the Orlando Magic; implemented and created primarily with Bootstrap, along with minimal CSS stylings
 
 <br>
